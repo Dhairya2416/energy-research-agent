@@ -1,0 +1,5 @@
+crewai
+streamlit
+tavily-python
+python-dotenv
+litellm==1.61.20
