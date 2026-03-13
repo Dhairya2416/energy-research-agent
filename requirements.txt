@@ -3,6 +3,3 @@ crewai
 tavily-python
 python-dotenv
 litellm==1.61.20
-langchain
-langchain-community
-pydantic==1.10.13
