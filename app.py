@@ -6,7 +6,7 @@ from tools.file_writer import save_report
 
 st.title("Energy Research Agent")
 
-query = st.text_input("Enter an energy research topic:")
+query = st.text_input("Enter a energy research topic:")
 
 if st.button("Run Research"):
     missing = get_missing_required_env()
